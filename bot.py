@@ -17,7 +17,7 @@ import aiohttp
 logging.basicConfig(level=logging.INFO)
 
 # Bot token
-BOT_TOKEN = "7633319185:AAEUyYIFUgnH5q9RFUNTAF14v29SplGCmcs"
+BOT_TOKEN = ""
 
 
 bot = Bot(token=BOT_TOKEN)
